@@ -21,7 +21,7 @@ spec:
       containers:
         - name: php
 
-          image: push356/student-management-php:805568f
+          image: push356/student-management-php:f8fbc31
 
           ports:
             - containerPort: 80
