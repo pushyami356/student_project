@@ -12,7 +12,7 @@
 
 <div class="container">
 
-    <h2>Welcome</h2>
+    <h2>Welcome to student project</h2>
 
     <a href="admin/admin_login.php">
         <button>Admin Login</button>
